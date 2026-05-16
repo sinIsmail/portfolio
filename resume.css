@@ -961,6 +961,10 @@ body {
     display: none;
   }
 
+  .hero__name {
+    font-size: clamp(28px, 10vw, 56px);
+  }
+
   .section {
     padding: 56px 24px;
   }
